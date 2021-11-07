@@ -125,3 +125,6 @@ a.btn:hover {
      width: 20%;
      margin: 50px auto;
  }
+p.mountainimg{
+    position: relative;
+}
