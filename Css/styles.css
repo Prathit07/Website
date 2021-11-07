@@ -41,13 +41,13 @@ p.cloudimg2{
     right: 12.5rem;
 }
 
-p.mountainimg{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30rem;
+div.mountainimg{
+    display: flex;
+    justify-content: center;
 }
-
+img.mountain{
+    width: 35rem;
+}
 div.skill-row-1{
     width: 50%;
     margin: 50px auto 20px auto;
@@ -131,4 +131,5 @@ a.btn:hover {
      border-bottom: none;
      width: 20%;
      margin: 50px auto;
+     align-items: center;
  }
