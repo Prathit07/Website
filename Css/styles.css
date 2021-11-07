@@ -127,4 +127,5 @@ a.btn:hover {
  }
 p.mountainimg{
     position: relative;
+    align-items: center;
 }
